@@ -32,7 +32,6 @@ test.only('first playwright test',async ({browser})=>
     
 });
 
-// test('page playwright test',async ({page})=>
     
 // {
    
